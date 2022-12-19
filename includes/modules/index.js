@@ -1,3 +1,3 @@
-import HelloWorld from './HelloWorld/HelloWorld';
+import MeteoApp from './MeteoApp/MeteoApp';
 
-export default [HelloWorld];
+export default [MeteoApp];
